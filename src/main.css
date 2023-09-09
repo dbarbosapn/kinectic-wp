@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+	padding: 18px;
+}
+
+::-webkit-scrollbar {
+	display: none;
+}

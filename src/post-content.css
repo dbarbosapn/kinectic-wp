@@ -1,0 +1,21 @@
+.post-content {
+	pointer-events: none;
+}
+
+.post-content h1 {
+	font-weight: bold;
+	margin-bottom: 1em;
+}
+
+.post-content p {
+	margin-bottom: 1em;
+}
+
+.post-content img {
+	margin: 20px auto;
+}
+
+.post-content iframe {
+	margin: 20px auto;
+	pointer-events: none;
+}

@@ -1,0 +1,22 @@
+html,
+body {
+	cursor: none;
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	user-select: none;
+}
+
+.kinectic-cursor {
+	position: fixed;
+	transform: translate(-50%, -50%);
+	pointer-events: none;
+	z-index: 9999;
+}
+
+.kinectic-cursor-progress {
+	position: fixed;
+	transform: translate(-50%, -50%);
+	pointer-events: none;
+	z-index: 9999;
+}
